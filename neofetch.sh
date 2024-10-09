@@ -1208,7 +1208,7 @@ get_distro() {
 }
 
 get_model() {
-    model="Customized KVM VPS (DockerVM by discord.gg/hetzner)"
+    model="KVM Server v1.1 R1 (Is-a.space / discord.gg/hetzner)"
 }
 
 get_title() {
