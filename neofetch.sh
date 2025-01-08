@@ -177,9 +177,9 @@ memory_percent="off"
 # Flag:    --memory_unit
 #
 # Example:
-# kib  '1020928KiB / 7117824KiB'
-# mib  '1042MiB / 6951MiB'
-# gib: ' 0.98GiB / 6.79GiB'
+# kib  '1020928KiB / 7117824K0000iB'
+# mib  '1042MiB / 6951000MiB'
+# gib: ' 0.98GiB / 6.79000GiB'
 memory_unit="mib"
 
 
