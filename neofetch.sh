@@ -178,8 +178,8 @@ memory_percent="off"
 #
 # Example:
 # kib  '1020928KiB / 7117824KiB'
-# mib  '1042MiB / 6951MiB'
-# gib: ' 0.98GiB / 6.79GiB'
+# mib  '1042MiB / 695100MiB'
+# gib: ' 0.98GiB / 60000000GiB'
 memory_unit="mib"
 
 
